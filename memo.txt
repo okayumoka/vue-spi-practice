@@ -1,0 +1,18 @@
+
+https://www.pr1sm.com/crypto-coin/nem-nis-api-documentation-in-japanese/
+https://supernodes.nem.io/
+http://176.9.68.110:7890/heartbeat
+
+176.9.68.110 	HugeAlice2
+176.9.20.180 	HugeAlice3
+199.217.118.114 	HugeAlice4
+108.61.182.27 	Alice5
+108.61.168.86 	Alice6
+104.238.161.61 	Alice7
+88.99.192.82 	HugeAlice
+san.nem.ninja 	san
+go.nem.ninja 	go
+hachi.nem.ninja 	hachi
+
+https://github.com/QuantumMechanics/NEM-sdk
+https://qiita.com/tkskysk/items/1072ca26d41d8b09928c

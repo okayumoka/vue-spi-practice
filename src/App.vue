@@ -1,5 +1,9 @@
 <template>
   <div id="app">
+    <h1>Vue spa practice</h1>
+    <router-link to="/">Home</router-link>
+    <router-link to="/super-node-list">SuperNodeList</router-link>
+    <br>
     <img src="./assets/logo.png">
     <router-view/>
   </div>
