@@ -14,7 +14,7 @@
 </template>
 
 <script>
-import config from '../../config.json'
+import config from '../../nemconfig.json'
 import {AccountHttp, Address} from 'nem-library'
 import nem from 'nem-sdk'
 

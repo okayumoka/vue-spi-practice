@@ -9,7 +9,7 @@
 //
 // console.log(nem.model.nodes.mainnet)
 // import {AccountHttp, NEMLibrary, NetworkTypes, Address} from "nem-library"
-import config from '../../config.json'
+import config from '../../nemconfig.json'
 import {AccountHttp, Address} from 'nem-library'
 // NEMLibrary.bootstrap(NetworkTypes.TEST_NET)
 
