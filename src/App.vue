@@ -10,6 +10,10 @@
 </template>
 
 <script>
+// Initialize NEMLibrary for TEST_NET Network
+import {NEMLibrary, NetworkTypes} from 'nem-library'
+NEMLibrary.bootstrap(NetworkTypes.TEST_NET)
+
 export default {
   name: 'App'
 }
